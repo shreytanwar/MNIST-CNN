@@ -1,7 +1,13 @@
 # MNIST-CNN
 **MNIST digit prediction using keras CNN**
 
-*Predicted Values*
+**Predicted Values**
+
+* *KNN model*
+![](knn%20pred.png)
+
+
+* *CNN model*
 ![](pred%20values.png)
 
 *Model is probably overfitted*
